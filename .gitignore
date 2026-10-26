@@ -1,0 +1,6 @@
+*.zip
+*.7z
+Interface/
+WTF/
+Thumbs.db
+.DS_Store
