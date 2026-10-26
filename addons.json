@@ -1,0 +1,217 @@
+[
+  {
+    "Folder": "Attune",
+    "Version": "16001-34",
+    "Purpose": "Track raid attunements and dungeon quest progress"
+  },
+  {
+    "Folder": "Auctionator",
+    "Version": "341",
+    "Purpose": "A lightweight addon that makes it easy and fast to buy, sell and manage auctions"
+  },
+  {
+    "Folder": "Baganator",
+    "Version": "838",
+    "Purpose": "Provides categorized or single-view bags, searching, and sorting. Requires Syndicator 287, included separately."
+  },
+  {
+    "Folder": "DialogueUI",
+    "Version": "1.0.6",
+    "Purpose": "Quest Dialogue UI"
+  },
+  {
+    "Folder": "EllesmereUI",
+    "Version": "9.6.8",
+    "Purpose": "Shared framework for the EllesmereUI addon suite"
+  },
+  {
+    "Folder": "EllesmereUIActionBars",
+    "Version": "9.6.8",
+    "Purpose": "Modern action bars built for performance and clarity."
+  },
+  {
+    "Folder": "EllesmereUIQuickdraw",
+    "Version": "9.6.8",
+    "Purpose": "Hold a keybind to open a menu of actions; point or scroll to choose, release to fire."
+  },
+  {
+    "Folder": "EllesmereUIAuraBuffReminders",
+    "Version": "9.6.8",
+    "Purpose": "Simple raid buff, auras, consumables and talent reminders."
+  },
+  {
+    "Folder": "EllesmereUIBags",
+    "Version": "9.6.8",
+    "Purpose": "A beautiful visual refresh of Blizzard Bags with intuitive organization."
+  },
+  {
+    "Folder": "EllesmereUIBlizzardSkin",
+    "Version": "9.6.8",
+    "Purpose": "Clean and beautiful visual refreshes for Blizzard UI elements."
+  },
+  {
+    "Folder": "EllesmereUIChat",
+    "Version": "9.6.8",
+    "Purpose": "Modern chat enhancements with useful utilities."
+  },
+  {
+    "Folder": "EllesmereUICooldownManager",
+    "Version": "9.6.8",
+    "Purpose": "A CDM replacement focused on performance, customizations and alerts."
+  },
+  {
+    "Folder": "EllesmereUIDamageMeters",
+    "Version": "9.6.8",
+    "Purpose": "Lightweight damage meters with simple but powerful customization."
+  },
+  {
+    "Folder": "EllesmereUIDataBars",
+    "Version": "9.6.8",
+    "Purpose": "Information bar for EllesmereUI - clock, gold, reputation and more"
+  },
+  {
+    "Folder": "EllesmereUIForeverEssentials",
+    "Version": "9.6.8",
+    "Purpose": "Essential tools for WoW Forever."
+  },
+  {
+    "Folder": "EllesmereUIFriends",
+    "Version": "9.6.8",
+    "Purpose": "A modern friends list with built-in organization tools."
+  },
+  {
+    "Folder": "EllesmereUIGroupFinder",
+    "Version": "9.6.8",
+    "Purpose": "Premade Group search filters, listing, and application tools."
+  },
+  {
+    "Folder": "EllesmereUILocales",
+    "Version": "9.6.8",
+    "Purpose": "EllesmereUI community translations. Loads on demand for non-English locales."
+  },
+  {
+    "Folder": "EllesmereUIMinimap",
+    "Version": "9.6.8",
+    "Purpose": "A new age minimap with clean styling and square layout options."
+  },
+  {
+    "Folder": "EllesmereUIMythicTimer",
+    "Version": "9.6.8",
+    "Purpose": "A simple Mythic+ timer with full tracking customizations."
+  },
+  {
+    "Folder": "EllesmereUINameplates",
+    "Version": "9.6.8",
+    "Purpose": "Clean, lightweight nameplates with endless customization."
+  },
+  {
+    "Folder": "EllesmereUIOptions",
+    "Version": "9.6.8",
+    "Purpose": "EllesmereUI settings panel. Loads on demand when you open EllesmereUI options."
+  },
+  {
+    "Folder": "EllesmereUIQoL",
+    "Version": "9.6.8",
+    "Purpose": "Lightweight quality of life tools and enhancements."
+  },
+  {
+    "Folder": "EllesmereUIQuestTracker",
+    "Version": "9.6.8",
+    "Purpose": "A clean, updated reskin of Blizzard's Quest Tracker."
+  },
+  {
+    "Folder": "EllesmereUIRaidFrames",
+    "Version": "9.6.8",
+    "Purpose": "Incredibly light performance, modern raid and party frames with endless flexibility."
+  },
+  {
+    "Folder": "EllesmereUIResourceBars",
+    "Version": "9.6.8",
+    "Purpose": "Custom Resource Bars with thresholds, hash lines and more."
+  },
+  {
+    "Folder": "EllesmereUIUnitFrames",
+    "Version": "9.6.8",
+    "Purpose": "Simple unit frames with a modern visual style."
+  },
+  {
+    "Folder": "ForeverDungeonJournal",
+    "Version": "1.6.5",
+    "Purpose": "Boss, loot and quest journal for WoW Classic dungeons."
+  },
+  {
+    "Folder": "Leatrix_Plus",
+    "Version": "1.60.25",
+    "Purpose": "curseforge.com/wow/addons/leatrix-plus"
+  },
+  {
+    "Folder": "QuestieDB",
+    "Version": "1.0.7",
+    "Purpose": "The database Questie consumes."
+  },
+  {
+    "Folder": "Questie",
+    "Version": "12.2.0",
+    "Purpose": "A standalone Classic QuestHelper"
+  },
+  {
+    "Folder": "Spoken",
+    "Version": "3.5.1",
+    "Purpose": "The voice player every Spoken addon speaks through: one queue, one window, one minimap button."
+  },
+  {
+    "Folder": "SpokenContributions",
+    "Version": "3.5.1",
+    "Purpose": "Where Spoken keeps the lines it gathered for you. Upload SavedVariables/SpokenContributions.lua at spoken.rusty.one/contribute."
+  },
+  {
+    "Folder": "Spoken_Quests",
+    "Version": "3.5.1",
+    "Purpose": "Quest and gossip dialogue read aloud through Spoken. Restores quest and gossip voiceovers on supported clients."
+  },
+  {
+    "Folder": "Spoken_Readables",
+    "Version": "3.5.1",
+    "Purpose": "Books, letters, notes and plaques read aloud through Spoken."
+  },
+  {
+    "Folder": "Spoken_Places",
+    "Version": "3.5.1",
+    "Purpose": "Zone and subzone lore on the world map, read aloud through Spoken."
+  },
+  {
+    "Folder": "Syndicator",
+    "Version": "287",
+    "Purpose": "Stores inventory information across characters and powers Baganator's inventory features. Required by Baganator."
+  },
+  {
+    "Folder": "SpokenBooksAudio",
+    "Version": "2.1.2",
+    "Purpose": "Narrated books, letters and notes for Spoken Books. Install alongside Spoken Books."
+  },
+  {
+    "Folder": "SpokenQuestsAudioAlliance",
+    "Version": "2.4.0",
+    "Purpose": "Contains voiceovers for content released during the Vanilla era.\\|n\\|nIt's \\|cFF20FF20OK\\|r for this addon to appear \\|cFF808080\"disabled\"\\|r or \\|cFFFF2020\"out of date\"\\|r, it's compatible with any client and \\|cFFFFD200Spoken Quests\\|r will load it even if it's disabled or out of date."
+  },
+  {
+    "Folder": "SpokenQuestsAudioGossip",
+    "Version": "2.4.0",
+    "Purpose": "Contains voiceovers for content released during the Vanilla era.\\|n\\|nIt's \\|cFF20FF20OK\\|r for this addon to appear \\|cFF808080\"disabled\"\\|r or \\|cFFFF2020\"out of date\"\\|r, it's compatible with any client and \\|cFFFFD200Spoken Quests\\|r will load it even if it's disabled or out of date."
+  },
+  {
+    "Folder": "SpokenQuestsAudioHorde",
+    "Version": "2.4.0",
+    "Purpose": "Contains voiceovers for content released during the Vanilla era.\\|n\\|nIt's \\|cFF20FF20OK\\|r for this addon to appear \\|cFF808080\"disabled\"\\|r or \\|cFFFF2020\"out of date\"\\|r, it's compatible with any client and \\|cFFFFD200Spoken Quests\\|r will load it even if it's disabled or out of date."
+  },
+  {
+    "Folder": "SpokenQuestsAudioShared",
+    "Version": "2.4.0",
+    "Purpose": "Contains voiceovers for content released during the Vanilla era.\\|n\\|nIt's \\|cFF20FF20OK\\|r for this addon to appear \\|cFF808080\"disabled\"\\|r or \\|cFFFF2020\"out of date\"\\|r, it's compatible with any client and \\|cFFFFD200Spoken Quests\\|r will load it even if it's disabled or out of date."
+  },
+  {
+    "Folder": "SpokenZonesAudio",
+    "Version": "2.0.1",
+    "Purpose": "Narrated zone lore for Spoken Zones. Install alongside Spoken Zones.\\|n\\|cffffcc00Beta:\\|r a proof-of-concept voice, being redesigned and re-generated."
+  }
+]
