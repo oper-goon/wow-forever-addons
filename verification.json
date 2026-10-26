@@ -1,0 +1,590 @@
+[
+  {
+    "Archive": "Attune-Forever-v16001-34.zip",
+    "Publisher": "CixiDelmont",
+    "Source": "https://www.curseforge.com/wow/addons/attune/files/9263982",
+    "Bytes": 1098353,
+    "SHA256": "901495B8730739019F20C7932F0C58B71CDFE00463B5ECA71CB71B31616CD79A",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 3962403,
+    "ForeverTOCs": [
+      {
+        "Path": "Attune/Attune.toc",
+        "Metadata": [
+          "## Interface: 16001\r",
+          "## Title: Attune\r",
+          "## Version: 16001-34\r"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "Auctionator-341.zip",
+    "Publisher": "plusmouse",
+    "Source": "https://www.curseforge.com/wow/addons/auctionator/files/9162359",
+    "Bytes": 829940,
+    "SHA256": "32C4A2A8D24D46F4FC2725E62C255171A62877854CE6FCBD3272735F6DD3E4E2",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 3120394,
+    "ForeverTOCs": [
+      {
+        "Path": "Auctionator/Auctionator.toc",
+        "Metadata": [
+          "## Interface: 120100, 120105, 16001, 50504, 38000, 20506, 11508, 11509\r",
+          "## Title: Auctionator\r",
+          "## Version: 341\r",
+          "## OptionalDeps: LibAHTab\r"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "Baganator-838.zip",
+    "Publisher": "plusmouse",
+    "Source": "https://www.curseforge.com/wow/addons/baganator/files/9244555",
+    "Bytes": 427694,
+    "SHA256": "1B8D8382BE18EEC791E541C9E61F565EF92427EB02BC994C7A0B9562108E8817",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 1403842,
+    "ForeverTOCs": [
+      {
+        "Path": "Baganator/Baganator.toc",
+        "Metadata": [
+          "## Interface: 120100, 120105, 16001, 50504, 38001, 20506, 11509\r",
+          "## Title: Baganator\r",
+          "## Version: 838\r",
+          "## OptionalDeps: Syndicator, Masque\r"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "DialogueUI-1.0.6.zip",
+    "Publisher": "Peterodox",
+    "Source": "https://www.curseforge.com/wow/addons/dialogueui/files/9058348",
+    "Bytes": 9625556,
+    "SHA256": "A6B02116A9FF97392C73F74E324019516AC3C25A8C76AB691D8F76B0B29BF47E",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 11475406,
+    "ForeverTOCs": [
+      {
+        "Path": "DialogueUI/DialogueUI.toc",
+        "Metadata": [
+          "## Interface: 120100, 120105, 50504, 20506, 11509, 16001\r",
+          "## Version: 1.0.6\r",
+          "## Title: Dialogue UI\r"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "EllesmereUI-v9.6.8.zip",
+    "Publisher": "Ellesmere",
+    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9316164",
+    "Bytes": 25868183,
+    "SHA256": "4AE8B6C32F476164A697CF7D839F8E504C86B2D305281BA015C7D94EB2DBDCE0",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 64573159,
+    "ForeverTOCs": [
+      {
+        "Path": "EllesmereUI/EllesmereUI.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r\r",
+          "## Version: 9.6.8\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIActionBars/EllesmereUIActionBars.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Action Bars\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIQuickdraw/EllesmereUIQuickdraw.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Quickdraw\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIAuraBuffReminders/EllesmereUIAuraBuffReminders.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r AuraBuff Reminders\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIBags/EllesmereUIBags.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Bags\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIBlizzardSkin/EllesmereUIBlizzardSkin.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Blizzard Skins+\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIChat/EllesmereUIChat.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Chat\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUICooldownManager/EllesmereUICooldownManager.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Cooldown Manager\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIDamageMeters/EllesmereUIDamageMeters.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Damage Meters\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIDataBars/EllesmereUIDataBars.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r DataBars\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIForeverEssentials/EllesmereUIForeverEssentials_Camelot.toc",
+        "Metadata": [
+          "## Interface: 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Forever Essentials\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIFriends/EllesmereUIFriends.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Friends\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIGroupFinder/EllesmereUIGroupFinder.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Group Finder\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUILocales/EllesmereUILocales.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Locales\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIMinimap/EllesmereUIMinimap.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Minimap\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIMythicTimer/EllesmereUIMythicTimer.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Mythic+ Tools\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUINameplates/EllesmereUINameplates.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Nameplates\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIOptions/EllesmereUIOptions.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Options\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIQoL/EllesmereUIQoL.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Quality of Life\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIQuestTracker/EllesmereUIQuestTracker.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Quest Tracker\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIRaidFrames/EllesmereUIRaidFrames.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Raid & Party Frames\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIResourceBars/EllesmereUIResourceBars.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Resource Bars\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      },
+      {
+        "Path": "EllesmereUIUnitFrames/EllesmereUIUnitFrames.toc",
+        "Metadata": [
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
+          "## Title: |cff0cd29fEllesmereUI|r Unit Frames\r",
+          "## Version: 9.6.8\r",
+          "## Dependencies: EllesmereUI\r"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "ForeverDungeonJournal-1.6.5.zip",
+    "Publisher": "ExehnTV",
+    "Source": "https://www.curseforge.com/wow/addons/dungeonjournal/files/9259740",
+    "Bytes": 15734604,
+    "SHA256": "68466793039B18FD88066E37CBB9D4C8F7BBE30B902B02D746CDD51C6B1A7768",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 27634233,
+    "ForeverTOCs": [
+      {
+        "Path": "ForeverDungeonJournal/ForeverDungeonJournal.toc",
+        "Metadata": [
+          "## Interface: 16001",
+          "## Title: DungeonJournal",
+          "## Version: 1.6.5"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "Leatrix_Plus-1.60.25-forever.zip",
+    "Publisher": "Leatrix",
+    "Source": "https://www.curseforge.com/wow/addons/leatrix-plus/files/9275554",
+    "Bytes": 527855,
+    "SHA256": "5CC050CE60C01C2333E90F855FA8AD41E61282E1D598D666010067BB39844EFA",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 2202290,
+    "ForeverTOCs": [
+      {
+        "Path": "Leatrix_Plus/Leatrix_Plus.toc",
+        "Metadata": [
+          "## Interface: 16001\r",
+          "## Title: Leatrix Plus\r",
+          "## Version: 1.60.25\r",
+          "## OptionalDeps: ElvUI\r",
+          "## Title-zhCN: Leatrix Plus [|cffeda55f功能百宝箱|r]\r",
+          "## Title-zhTW: Leatrix Plus [|cffeda55f功能百寶箱|r]\r"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "Questie-v12.2.0+v1.0.7.zip",
+    "Publisher": "Questie/Questie",
+    "Source": "https://github.com/Questie/Questie/releases/tag/bundle/v12.2.0+v1.0.7",
+    "Bytes": 93049837,
+    "SHA256": "B05DFC994A5E44DD668D9BE1DBA53F19A2EB40987945D422F4C07D65ADA03806",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 218363986,
+    "ForeverTOCs": [
+      {
+        "Path": "QuestieDB/QuestieDB_Camelot.toc",
+        "Metadata": [
+          "## Interface: 16001",
+          "## Title: QuestieDB",
+          "## Version: 1.0.7"
+        ]
+      },
+      {
+        "Path": "QuestieDB/QuestieDB_Forever.toc",
+        "Metadata": [
+          "## Interface: 16001",
+          "## Title: QuestieDB",
+          "## Version: 1.0.7"
+        ]
+      },
+      {
+        "Path": "Questie/Questie_Camelot.toc",
+        "Metadata": [
+          "## Interface: 16001",
+          "## Title: Questie|cFF00FF00 v12.2.0|r",
+          "## Version: 12.2.0",
+          "## RequiredDeps: QuestieDB",
+          "## OptionalDeps: Ace3, CallbackHandler-1.0, HereBeDragons, Krowi_WorldMapButtons, LibDataBroker-1.1, LibDBIcon-1.0, LibSharedMedia-3.0, LibStub, LibUIDropDownMenu"
+        ]
+      },
+      {
+        "Path": "Questie/Libs/Krowi_WorldMapButtons/Krowi_WorldMapButtons.toc",
+        "Metadata": [
+          "## Interface: 120100, 50504, 11509, 16001, 38002",
+          "## Title: Krowi's |cFF1D92C2World Map Buttons|r",
+          "## Version: 1.4.11"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "Spoken-3.5.1.zip",
+    "Publisher": "rustykey",
+    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9256105",
+    "Bytes": 70502218,
+    "SHA256": "7436C020F1F4C119C9CFBFAEF48EB46036ED10CB26FB037E3AD3D19C2BCD775B",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 119228782,
+    "ForeverTOCs": [
+      {
+        "Path": "Spoken/Spoken.toc",
+        "Metadata": [
+          "## Interface: 100007, 16001",
+          "## Title: Spoken",
+          "## Version: 3.5.1",
+          "## OptionalDeps: DialogueUI"
+        ]
+      },
+      {
+        "Path": "SpokenContributions/SpokenContributions.toc",
+        "Metadata": [
+          "## Interface: 11509, 20506, 30403, 100007, 16001",
+          "## Title: Spoken Contributions",
+          "## Version: 3.5.1"
+        ]
+      },
+      {
+        "Path": "Spoken_Quests/Spoken_Quests.toc",
+        "Metadata": [
+          "## Interface: 100007, 16001",
+          "## Title: Spoken Quests",
+          "## Version: 3.5.1",
+          "## Dependencies: Spoken",
+          "## OptionalDeps: DialogueUI"
+        ]
+      },
+      {
+        "Path": "Spoken_Readables/Spoken_Readables.toc",
+        "Metadata": [
+          "## Interface: 11509, 20506, 16001",
+          "## Title: Spoken Readables",
+          "## Version: 3.5.1",
+          "## Dependencies: Spoken",
+          "## OptionalDeps: SpokenBooksAudio"
+        ]
+      },
+      {
+        "Path": "Spoken_Places/Spoken_Places.toc",
+        "Metadata": [
+          "## Interface: 11509, 20506, 16001",
+          "## Title: Spoken Places",
+          "## Version: 3.5.1",
+          "## Dependencies: Spoken",
+          "## OptionalDeps: SpokenZonesAudio, ZoneLoreAudio, ZoneLoreAudio64"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "Syndicator-287.zip",
+    "Publisher": "plusmouse",
+    "Source": "https://www.curseforge.com/wow/addons/syndicator/files/9162388",
+    "Bytes": 107508,
+    "SHA256": "B5F369D005C7964AEC3D37423BA5A41E6689615C716B04DA352AACF944FECA7B",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 441893,
+    "ForeverTOCs": [
+      {
+        "Path": "Syndicator/Syndicator.toc",
+        "Metadata": [
+          "## Interface: 120100, 120105, 16001, 50504, 38001, 20506, 11509\r",
+          "## Title: Syndicator\r",
+          "## Version: 287\r"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "SpokenBooksAudio-2.1.2.zip",
+    "Publisher": "rustykey",
+    "Source": "https://www.curseforge.com/wow/addons/spoken-audio-readables/files/9031255",
+    "Bytes": 468876729,
+    "SHA256": "4B443FC4D376FBB6D9A9B83041DCD96A1CADFFFD72C1D928D373239E3E907924",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 468722277,
+    "ForeverTOCs": [
+      {
+        "Path": "SpokenBooksAudio/SpokenBooksAudio.toc",
+        "Metadata": [
+          "## Interface: 11509, 20506, 16001",
+          "## Title: Spoken Books Audio",
+          "## Version: 2.1.2"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "SpokenQuestsAudioAlliance-2.4.0.zip",
+    "Publisher": "rustykey",
+    "Source": "https://www.curseforge.com/wow/addons/spoken-audio-quests-alliance/files/9232588",
+    "Bytes": 382850458,
+    "SHA256": "710DA2E8CC19C5D7AB015B3F01379A7CC2EFAC48671E70DF7D26B24F752DE3A1",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 391429159,
+    "ForeverTOCs": [
+      {
+        "Path": "SpokenQuestsAudioAlliance/SpokenQuestsAudioAlliance.toc",
+        "Metadata": [
+          "## Interface: 100007, 11509, 20506, 16001",
+          "## Title: Spoken Audio: Quests - Alliance",
+          "## Version: 2.4.0"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "SpokenQuestsAudioGossip-2.4.0.zip",
+    "Publisher": "rustykey",
+    "Source": "https://www.curseforge.com/wow/addons/spoken-audio-gossip/files/9232597",
+    "Bytes": 387218568,
+    "SHA256": "D3E010002CA0A0AB25084827A9208E5A6B8907D7EB8431819A6F5371360452D6",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 396093278,
+    "ForeverTOCs": [
+      {
+        "Path": "SpokenQuestsAudioGossip/SpokenQuestsAudioGossip.toc",
+        "Metadata": [
+          "## Interface: 100007, 11509, 20506, 16001",
+          "## Title: Spoken Audio: Gossip",
+          "## Version: 2.4.0"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "SpokenQuestsAudioHorde-2.4.0.zip",
+    "Publisher": "rustykey",
+    "Source": "https://www.curseforge.com/wow/addons/spoken-audio-quests-horde/files/9232590",
+    "Bytes": 365557512,
+    "SHA256": "0C75119B7B0AA0CB705C9B4FBF3479CFE155A23CB430A1BDBFA435796825AF9A",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 373487238,
+    "ForeverTOCs": [
+      {
+        "Path": "SpokenQuestsAudioHorde/SpokenQuestsAudioHorde.toc",
+        "Metadata": [
+          "## Interface: 100007, 11509, 20506, 16001",
+          "## Title: Spoken Audio: Quests - Horde",
+          "## Version: 2.4.0"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "SpokenQuestsAudioShared-2.4.0.zip",
+    "Publisher": "rustykey",
+    "Source": "https://www.curseforge.com/wow/addons/spoken-audio-quests-shared/files/9232594",
+    "Bytes": 343611654,
+    "SHA256": "78DA817B0EF9B8C7D5853349CE727ABFAD09D188A831C54E8EAE8D75F94F4B8D",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 351452703,
+    "ForeverTOCs": [
+      {
+        "Path": "SpokenQuestsAudioShared/SpokenQuestsAudioShared.toc",
+        "Metadata": [
+          "## Interface: 100007, 11509, 20506, 16001",
+          "## Title: Spoken Audio: Quests - Shared",
+          "## Version: 2.4.0"
+        ]
+      }
+    ]
+  },
+  {
+    "Archive": "SpokenZonesAudio-2.0.1.zip",
+    "Publisher": "rustykey",
+    "Source": "https://www.curseforge.com/wow/addons/spoken-audio-places/files/8982952",
+    "Bytes": 469439840,
+    "SHA256": "BF60DFD1C01E3E56966ED1C25CB511EAC8E9A36D59AC8880A85CB65FD43D3E61",
+    "ExecutableCount": 0,
+    "AllEntriesReadable": true,
+    "UncompressedBytes": 472809623,
+    "ForeverTOCs": [
+      {
+        "Path": "SpokenZonesAudio/SpokenZonesAudio.toc",
+        "Metadata": [
+          "## Interface: 11509, 20506, 16001",
+          "## Title: Spoken Zones Audio",
+          "## Version: 2.0.1"
+        ]
+      }
+    ]
+  }
+]
