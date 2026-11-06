@@ -1,33 +1,47 @@
 [
   {
     "Name": "Questie",
-    "Version": "12.5.0 + QuestieDB 1.0.10",
-    "Archive": "Questie-v12.5.0+v1.0.10.zip",
+    "Version": "12.6.2 + QuestieDB 1.0.11",
+    "Archive": "Questie-v12.6.2+v1.0.11.zip",
     "Publisher": "Questie/Questie",
-    "Source": "https://github.com/Questie/Questie/releases/tag/bundle/v12.5.0+v1.0.10",
-    "Checked": "2026-11-03",
-    "Bytes": 93369490,
-    "SHA256": "F01FE30052F289DD375574888BBB091C6D1CECBA3988B3B7B7917E94B959AE82",
+    "Source": "https://github.com/Questie/Questie/releases/tag/bundle/v12.6.2+v1.0.11",
+    "Checked": "2026-11-06",
+    "Bytes": 93581472,
+    "SHA256": "2BA94DB23822BCE8D6F78370AAD80229EF0E81AE988F9D9B208CE075FF066531",
     "ForeverTOCs": [
       {
         "Path": "QuestieDB/QuestieDB_Camelot.toc",
         "Metadata": [
           "## Interface: 16001",
-          "## Version: 1.0.10"
+          "## Version: 1.0.11"
         ]
       },
       {
         "Path": "QuestieDB/QuestieDB_Forever.toc",
         "Metadata": [
           "## Interface: 16001",
-          "## Version: 1.0.10"
+          "## Version: 1.0.11"
         ]
       },
       {
         "Path": "Questie/Questie_Camelot.toc",
         "Metadata": [
           "## Interface: 16001",
-          "## Version: 12.5.0"
+          "## Version: 12.6.2"
+        ]
+      },
+      {
+        "Path": "Questie/Questie_Forever.toc",
+        "Metadata": [
+          "## Interface: 16001",
+          "## Version: 12.6.2"
+        ]
+      },
+      {
+        "Path": "Questie/Libs/Krowi_WorldMapButtons/Krowi_WorldMapButtons.toc",
+        "Metadata": [
+          "## Interface: 120100, 50504, 11509, 16001, 38002",
+          "## Version: 1.4.11"
         ]
       }
     ],
@@ -55,19 +69,19 @@
   },
   {
     "Name": "Baganator",
-    "Version": "839",
-    "Archive": "Baganator-839.zip",
+    "Version": "843",
+    "Archive": "Baganator-843.zip",
     "Publisher": "plusmouse",
-    "Source": "https://www.curseforge.com/wow/addons/baganator/files/9353264",
-    "Checked": "2026-11-03",
-    "Bytes": 428572,
-    "SHA256": "BC2AA04DE6155A7B710B42EFFFC325C38BE1E86A9033CC60AB074321B20A06B0",
+    "Source": "https://www.curseforge.com/wow/addons/baganator/files/9473987",
+    "Checked": "2026-11-06",
+    "Bytes": 429073,
+    "SHA256": "4E3B1473DBE87803A5CC71AD5FDF9E9735469B36B5E7E05802566F084E323D5D",
     "ForeverTOCs": [
       {
         "Path": "Baganator/Baganator.toc",
         "Metadata": [
-          "## Interface: 120100, 120105, 16001, 50504, 38001, 20506, 11509\r",
-          "## Version: 839\r"
+          "## Interface: 120100, 120105, 16001, 50504, 38001, 20506, 11509",
+          "## Version: 843"
         ]
       }
     ],
@@ -75,19 +89,19 @@
   },
   {
     "Name": "DungeonJournal",
-    "Version": "1.6.6",
-    "Archive": "ForeverDungeonJournal-1.6.6.zip",
+    "Version": "1.7.0",
+    "Archive": "ForeverDungeonJournal-1.7.0.zip",
     "Publisher": "ExehnTV",
-    "Source": "https://www.curseforge.com/wow/addons/dungeonjournal/files/9428739",
-    "Checked": "2026-11-03",
-    "Bytes": 22431673,
-    "SHA256": "CE3A831A835EC73AA32DC430993E6403E816EFA8C05627420B06AB5FF31A7AEC",
+    "Source": "https://www.curseforge.com/wow/addons/dungeonjournal/files/9473650",
+    "Checked": "2026-11-06",
+    "Bytes": 43299998,
+    "SHA256": "0D0303425DDA2ABE2AEEA34079673DDF51C174FC8BE7646E8C8ECA361F129C9A",
     "ForeverTOCs": [
       {
         "Path": "ForeverDungeonJournal/ForeverDungeonJournal.toc",
         "Metadata": [
           "## Interface: 16001",
-          "## Version: 1.6.6"
+          "## Version: 1.7.0"
         ]
       }
     ],
@@ -115,195 +129,195 @@
   },
   {
     "Name": "EllesmereUI",
-    "Version": "9.7.3",
-    "Archive": "EllesmereUI-v9.7.3.zip",
+    "Version": "9.7.8",
+    "Archive": "EllesmereUI-v9.7.8.zip",
     "Publisher": "Ellesmere",
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085",
-    "Checked": "2026-11-03",
-    "Bytes": 26547945,
-    "SHA256": "AEBFA8A60EE1185760D5C4E779C1DCEB999E1897295D0CDBA90DC740242FFDF2",
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8",
+    "Checked": "2026-11-06",
+    "Bytes": 26766386,
+    "SHA256": "76BA6184AA4F9002CC805BFD3630B7D206614C5917520EF8806F0C27EEE4459D",
     "ForeverTOCs": [
       {
         "Path": "EllesmereUI/EllesmereUI.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8"
         ]
       },
       {
         "Path": "EllesmereUIActionBars/EllesmereUIActionBars.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIQuickdraw/EllesmereUIQuickdraw.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIAuraBuffReminders/EllesmereUIAuraBuffReminders.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIBags/EllesmereUIBags.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIBlizzardSkin/EllesmereUIBlizzardSkin.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIChat/EllesmereUIChat.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUICooldownManager/EllesmereUICooldownManager.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIDamageMeters/EllesmereUIDamageMeters.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIDataBars/EllesmereUIDataBars.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIForeverEssentials/EllesmereUIForeverEssentials_Camelot.toc",
         "Metadata": [
-          "## Interface: 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIFriends/EllesmereUIFriends.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIGroupFinder/EllesmereUIGroupFinder.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUILocales/EllesmereUILocales.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIMinimap/EllesmereUIMinimap.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIMythicTimer/EllesmereUIMythicTimer.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUINameplates/EllesmereUINameplates.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIOptions/EllesmereUIOptions.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIQoL/EllesmereUIQoL.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIQuestTracker/EllesmereUIQuestTracker.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIRaidFrames/EllesmereUIRaidFrames.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIResourceBars/EllesmereUIResourceBars.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       },
       {
         "Path": "EllesmereUIUnitFrames/EllesmereUIUnitFrames.toc",
         "Metadata": [
-          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001\r",
-          "## Version: 9.7.3\r",
-          "## Dependencies: EllesmereUI\r"
+          "## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001",
+          "## Version: 9.7.8",
+          "## Dependencies: EllesmereUI"
         ]
       }
     ],
@@ -311,19 +325,19 @@
   },
   {
     "Name": "Attune",
-    "Version": "16001-34",
-    "Archive": "Attune-Forever-v16001-34.zip",
+    "Version": "16001-38",
+    "Archive": "Attune-Forever-v16001-38.zip",
     "Publisher": "CixiDelmont",
-    "Source": "https://www.curseforge.com/wow/addons/attune/files/9263982",
-    "Checked": "2026-11-03",
-    "Bytes": 1098353,
-    "SHA256": "901495B8730739019F20C7932F0C58B71CDFE00463B5ECA71CB71B31616CD79A",
+    "Source": "https://www.curseforge.com/wow/addons/attune/files/9473452",
+    "Checked": "2026-11-06",
+    "Bytes": 1119143,
+    "SHA256": "A09A845791CCB8590211E88F335E1C723FBF2354701EAF1024B76D7BFA645544",
     "ForeverTOCs": [
       {
         "Path": "Attune/Attune.toc",
         "Metadata": [
-          "## Interface: 16001\r",
-          "## Version: 16001-34\r"
+          "## Interface: 16001, 120100, 120105, 120107",
+          "## Version: 16001-38"
         ]
       }
     ],
@@ -331,19 +345,19 @@
   },
   {
     "Name": "DialogueUI",
-    "Version": "1.0.6",
-    "Archive": "DialogueUI-1.0.6.zip",
+    "Version": "1.0.7 b",
+    "Archive": "DialogueUI-1.0.7-b.zip",
     "Publisher": "Peterodox",
-    "Source": "https://www.curseforge.com/wow/addons/dialogueui/files/9058348",
-    "Checked": "2026-11-03",
-    "Bytes": 9625556,
-    "SHA256": "A6B02116A9FF97392C73F74E324019516AC3C25A8C76AB691D8F76B0B29BF47E",
+    "Source": "https://www.curseforge.com/wow/addons/dialogueui/files/9451752",
+    "Checked": "2026-11-06",
+    "Bytes": 9934874,
+    "SHA256": "3996B8A9792E030A9596D9905AA0F0C8BF7AFDD740B331F5EFADAC75BCD1E0A4",
     "ForeverTOCs": [
       {
         "Path": "DialogueUI/DialogueUI.toc",
         "Metadata": [
-          "## Interface: 120100, 120105, 50504, 20506, 11509, 16001\r",
-          "## Version: 1.0.6\r"
+          "## Interface: 120107, 120105, 50504, 20506, 11509, 16001",
+          "## Version: 1.0.7 b"
         ]
       }
     ],
@@ -351,33 +365,33 @@
   },
   {
     "Name": "Spoken",
-    "Version": "3.8.0",
-    "Archive": "Spoken-3.8.0.zip",
+    "Version": "3.8.3",
+    "Archive": "Spoken-3.8.3.zip",
     "Publisher": "rustykey",
-    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9411285",
-    "Checked": "2026-11-03",
-    "Bytes": 72202204,
-    "SHA256": "1D1D4C94ED5C20C82AA747DEF000C6480329EEB3AB0ACBA4ABCABAE99D821ABB",
+    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9455301",
+    "Checked": "2026-11-06",
+    "Bytes": 72242597,
+    "SHA256": "B3C820365BD3F4F3324085120B4BC4DC3D30A77F3017EF6C69C454F82E101DC7",
     "ForeverTOCs": [
       {
         "Path": "Spoken/Spoken.toc",
         "Metadata": [
           "## Interface: 16001",
-          "## Version: 3.8.0"
+          "## Version: 3.8.3"
         ]
       },
       {
         "Path": "SpokenContributions/SpokenContributions.toc",
         "Metadata": [
           "## Interface: 11509, 20506, 30403, 16001",
-          "## Version: 3.8.0"
+          "## Version: 3.8.3"
         ]
       },
       {
         "Path": "Spoken_Quests/Spoken_Quests.toc",
         "Metadata": [
           "## Interface: 16001",
-          "## Version: 3.8.0",
+          "## Version: 3.8.3",
           "## Dependencies: Spoken"
         ]
       },
@@ -385,7 +399,7 @@
         "Path": "Spoken_Readables/Spoken_Readables.toc",
         "Metadata": [
           "## Interface: 11509, 20506, 16001",
-          "## Version: 3.8.0",
+          "## Version: 3.8.3",
           "## Dependencies: Spoken"
         ]
       },
@@ -393,7 +407,7 @@
         "Path": "Spoken_Places/Spoken_Places.toc",
         "Metadata": [
           "## Interface: 11509, 20506, 16001",
-          "## Version: 3.8.0",
+          "## Version: 3.8.3",
           "## Dependencies: Spoken"
         ]
       },
@@ -401,7 +415,7 @@
         "Path": "Spoken_Bosses/Spoken_Bosses.toc",
         "Metadata": [
           "## Interface: 11509, 20506, 16001",
-          "## Version: 3.8.0",
+          "## Version: 3.8.3",
           "## Dependencies: Spoken"
         ]
       }
@@ -430,19 +444,27 @@
   },
   {
     "Name": "GatherLite",
-    "Version": "8.2.1",
-    "Archive": "GatherLite-8.2.1.zip",
+    "Version": "8.3.1",
+    "Archive": "GatherLite-8.3.1.zip",
     "Publisher": "Wuild",
-    "Source": "https://www.curseforge.com/wow/addons/gatherlite/files/9397720",
-    "Checked": "2026-11-03",
-    "Bytes": 9462468,
-    "SHA256": "F4C7598A143EFE897023FA73C6B89027820F25A41C1E4156B7188A52C0F42720",
+    "Source": "https://www.curseforge.com/wow/addons/gatherlite/files/9470583",
+    "Checked": "2026-11-06",
+    "Bytes": 9491233,
+    "SHA256": "EF9176C9B0EEC0CA6556B782E5AFE7EEA75B1BB5F99D58216A3329BC7BABA258",
     "ForeverTOCs": [
       {
         "Path": "GatherLite/GatherLite.toc",
         "Metadata": [
           "## Interface: 16001",
-          "## Version: 8.2.1"
+          "## Version: 8.3.1"
+        ]
+      },
+      {
+        "Path": "GatherLite/scripts/libraries/HereBeDragons/HereBeDragons.toc",
+        "Metadata": [
+          "## Interface: 16001",
+          "## Version: 8.3.1",
+          "## Dependencies: LibStub, CallbackHandler-1.0"
         ]
       }
     ],
@@ -594,5 +616,25 @@
       }
     ],
     "ExecutableCount": 0
+  },
+  {
+    "Name": "Spoken Audio: Places",
+    "Publisher": "rustykey",
+    "ExecutableCount": 0,
+    "SHA256": "367510E4F2C34391F517ECEC5733F68129A0C8EE4AE3E8B385F3D1B866E48C5B",
+    "ForeverTOCs": [
+      {
+        "Path": "SpokenPlacesAudio/SpokenPlacesAudio.toc",
+        "Metadata": [
+          "## Interface: 11509, 20506, 16001",
+          "## Version: 2.1.1"
+        ]
+      }
+    ],
+    "Archive": "SpokenPlacesAudio-2.1.1.zip",
+    "Bytes": 348633232,
+    "Version": "2.1.1",
+    "Source": "https://www.curseforge.com/wow/addons/spoken-audio-places/files/9452701",
+    "Checked": "2026-11-06"
   }
 ]

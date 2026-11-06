@@ -1,10 +1,10 @@
 [
   {
     "Folder": "Attune",
-    "Version": "16001-34",
+    "Version": "16001-38",
     "Purpose": "Track raid attunements and dungeon quest progress",
     "Dependencies": [],
-    "Source": "https://www.curseforge.com/wow/addons/attune/files/9263982"
+    "Source": "https://www.curseforge.com/wow/addons/attune/files/9473452"
   },
   {
     "Folder": "Auctionator",
@@ -15,236 +15,236 @@
   },
   {
     "Folder": "Baganator",
-    "Version": "839",
+    "Version": "843",
     "Purpose": "Categorized bags, sorting, and searching. Requires included Syndicator.",
     "Dependencies": [],
-    "Source": "https://www.curseforge.com/wow/addons/baganator/files/9353264"
+    "Source": "https://www.curseforge.com/wow/addons/baganator/files/9473987"
   },
   {
     "Folder": "DialogueUI",
-    "Version": "1.0.6",
+    "Version": "1.0.7 b",
     "Purpose": "Quest Dialogue UI",
     "Dependencies": [],
-    "Source": "https://www.curseforge.com/wow/addons/dialogueui/files/9058348"
+    "Source": "https://www.curseforge.com/wow/addons/dialogueui/files/9451752"
   },
   {
     "Folder": "EllesmereUI",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Shared framework for the EllesmereUI addon suite",
     "Dependencies": [],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIActionBars",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Modern action bars built for performance and clarity.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIAuraBuffReminders",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Simple raid buff, auras, consumables and talent reminders.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIBags",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "A beautiful visual refresh of Blizzard Bags with intuitive organization.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIBlizzardSkin",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Clean and beautiful visual refreshes for Blizzard UI elements.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIChat",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Modern chat enhancements with useful utilities.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUICooldownManager",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "A CDM replacement focused on performance, customizations and alerts.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIDamageMeters",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Lightweight damage meters with simple but powerful customization.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIDataBars",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Information bar for EllesmereUI - clock, gold, reputation and more",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIForeverEssentials",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Essential tools for WoW Forever.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIFriends",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "A modern friends list with built-in organization tools.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIGroupFinder",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Premade Group search filters, listing, and application tools.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUILocales",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "EllesmereUI community translations. Loads on demand for non-English locales.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIMinimap",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "A new age minimap with clean styling and square layout options.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIMythicTimer",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "A simple Mythic+ timer with full tracking customizations.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUINameplates",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Clean, lightweight nameplates with endless customization.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIOptions",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "EllesmereUI settings panel. Loads on demand when you open EllesmereUI options.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIQoL",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Lightweight quality of life tools and enhancements.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIQuestTracker",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "A clean, updated reskin of Blizzard's Quest Tracker.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIQuickdraw",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Hold a keybind to open a menu of actions; point or scroll to choose, release to fire.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIRaidFrames",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Incredibly light performance, modern raid and party frames with endless flexibility.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIResourceBars",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Custom Resource Bars with thresholds, hash lines and more.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "EllesmereUIUnitFrames",
-    "Version": "9.7.3",
+    "Version": "9.7.8",
     "Purpose": "Simple unit frames with a modern visual style.",
     "Dependencies": [
       "EllesmereUI"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/ellesmereui/files/9411085"
+    "Source": "https://github.com/EllesmereGaming/EllesmereUI/releases/tag/v9.7.8"
   },
   {
     "Folder": "ForeverDungeonJournal",
-    "Version": "1.6.6",
+    "Version": "1.7.0",
     "Purpose": "Boss, loot and quest journal for WoW Classic dungeons.",
     "Dependencies": [],
-    "Source": "https://www.curseforge.com/wow/addons/dungeonjournal/files/9428739"
+    "Source": "https://www.curseforge.com/wow/addons/dungeonjournal/files/9473650"
   },
   {
     "Folder": "GatherLite",
-    "Version": "8.2.1",
+    "Version": "8.3.1",
     "Purpose": "Gathering history for World of Warcraft: Forever",
     "Dependencies": [],
-    "Source": "https://www.curseforge.com/wow/addons/gatherlite/files/9397720"
+    "Source": "https://www.curseforge.com/wow/addons/gatherlite/files/9470583"
   },
   {
     "Folder": "Leatrix_Plus",
@@ -262,60 +262,60 @@
   },
   {
     "Folder": "Questie",
-    "Version": "12.5.0",
+    "Version": "12.6.2",
     "Purpose": "A standalone Classic QuestHelper",
     "Dependencies": [],
-    "Source": "https://github.com/Questie/Questie/releases/tag/bundle/v12.5.0+v1.0.10"
+    "Source": "https://github.com/Questie/Questie/releases/tag/bundle/v12.6.2+v1.0.11"
   },
   {
     "Folder": "QuestieDB",
-    "Version": "1.0.10",
+    "Version": "1.0.11",
     "Purpose": "The database Questie consumes.",
     "Dependencies": [],
-    "Source": "https://github.com/Questie/Questie/releases/tag/bundle/v12.5.0+v1.0.10"
+    "Source": "https://github.com/Questie/Questie/releases/tag/bundle/v12.6.2+v1.0.11"
   },
   {
     "Folder": "Spoken",
-    "Version": "3.8.0",
+    "Version": "3.8.3",
     "Purpose": "Reads the game aloud: quests, gossip, places and readables. One queue, one narrator, one minimap button, and the settings for all of it.",
     "Dependencies": [],
-    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9411285"
+    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9455301"
   },
   {
     "Folder": "Spoken_Bosses",
-    "Version": "3.8.0",
+    "Version": "3.8.3",
     "Purpose": "The bosses of every dungeon and raid, and their stories, in Azeroth's Compendium.",
     "Dependencies": [
       "Spoken"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9411285"
+    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9455301"
   },
   {
     "Folder": "Spoken_Places",
-    "Version": "3.8.0",
+    "Version": "3.8.3",
     "Purpose": "Zone and subzone lore on the world map, read aloud through Spoken.",
     "Dependencies": [
       "Spoken"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9411285"
+    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9455301"
   },
   {
     "Folder": "Spoken_Quests",
-    "Version": "3.8.0",
+    "Version": "3.8.3",
     "Purpose": "Quest and gossip dialogue read aloud through Spoken. Restores quest and gossip voiceovers on supported clients.",
     "Dependencies": [
       "Spoken"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9411285"
+    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9455301"
   },
   {
     "Folder": "Spoken_Readables",
-    "Version": "3.8.0",
+    "Version": "3.8.3",
     "Purpose": "Books, letters, notes and plaques read aloud through Spoken.",
     "Dependencies": [
       "Spoken"
     ],
-    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9411285"
+    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9455301"
   },
   {
     "Folder": "SpokenBossesAudio",
@@ -326,17 +326,17 @@
   },
   {
     "Folder": "SpokenContributions",
-    "Version": "3.8.0",
+    "Version": "3.8.3",
     "Purpose": "Where Spoken keeps the lines it gathered for you. Upload SavedVariables/SpokenContributions.lua at spoken.rusty.one/contribute.",
     "Dependencies": [],
-    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9411285"
+    "Source": "https://www.curseforge.com/wow/addons/spoken/files/9455301"
   },
   {
     "Folder": "SpokenPlacesAudio",
-    "Version": "2.1.0",
+    "Version": "2.1.1",
     "Purpose": "Narrated place lore for Spoken Places.|n|nKeep it enabled: it loads with the game, and Spoken Places plays from it.|n|nBeta: a proof-of-concept voice, being redesigned and re-generated.",
     "Dependencies": [],
-    "Source": "https://www.curseforge.com/wow/addons/spoken-audio-places/files/9387584"
+    "Source": "https://www.curseforge.com/wow/addons/spoken-audio-places/files/9452701"
   },
   {
     "Folder": "SpokenQuestsAudioAlliance",
